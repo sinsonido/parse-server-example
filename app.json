@@ -15,7 +15,7 @@
     },
     "MASTER_KEY": {
       "description": "A key that overrides all permissions. Keep this secret.",
-      "value": "Af23aowe31LKRE81m23mfjg44fA3fkFFwer2FFF9as84kfasdf"
+      "value": ""
     },
     "SERVER_URL": {
       "description": "URL to connect to your Heroku instance (update with your app's name + PARSE_MOUNT)",
